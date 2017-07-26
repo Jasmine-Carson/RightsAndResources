@@ -29,15 +29,15 @@ public class Police extends AppCompatActivity {
         });
     }
     private void rights() {
-        Intent intent = new Intent(this, Activity2.class);
+        Intent intent = new Intent(this, PoliceRights.class);
         startActivity(intent);
     }
     private void resources() {
-        Intent intent = new Intent(this, Activity2.class);
+        Intent intent = new Intent(this, PoliceResources.class);
         startActivity(intent);
     }
     private void situations() {
-        Intent intent = new Intent(this, Activity2.class);
+        Intent intent = new Intent(this, PoliceSituations.class);
         startActivity(intent);
     }
 }
