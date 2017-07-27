@@ -27,12 +27,12 @@
         android:layout_height="wrap_content"
         android:text="@string/mental_health"
         android:visibility="visible"
-        app:layout_constraintRight_toRightOf="@+id/button5"
-        tools:layout_constraintRight_creator="1"
+        android:layout_marginStart="16dp"
         app:layout_constraintBaseline_toBaselineOf="@+id/button3"
         tools:layout_constraintBaseline_creator="1"
         tools:layout_constraintLeft_creator="1"
-        app:layout_constraintLeft_toLeftOf="@+id/button5" />
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="16dp" />
 
     <Button
         android:id="@+id/button3"
@@ -40,7 +40,7 @@
         android:layout_height="wrap_content"
         android:text="@string/police"
         tools:layout_constraintBottom_creator="1"
-        app:layout_constraintBottom_toTopOf="@+id/button7"
+        app:layout_constraintBottom_toTopOf="@+id/button17"
         tools:layout_constraintLeft_creator="1"
         android:layout_marginBottom="20dp"
         app:layout_constraintLeft_toRightOf="@+id/button2" />
@@ -50,12 +50,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/immigration"
-        tools:layout_constraintRight_creator="1"
-        app:layout_constraintRight_toRightOf="@+id/button7"
         app:layout_constraintBaseline_toBaselineOf="@+id/button3"
         tools:layout_constraintBaseline_creator="1"
         tools:layout_constraintLeft_creator="1"
-        app:layout_constraintLeft_toRightOf="@+id/button7" />
+        app:layout_constraintLeft_toRightOf="@+id/button3" />
 
     <Button
         android:id="@+id/button5"
@@ -64,12 +62,10 @@
         android:text="@string/lgbtq"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintRight_toLeftOf="@+id/button7"
+        app:layout_constraintRight_toLeftOf="@+id/button17"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
-        tools:layout_constraintBottom_creator="1"
-        android:layout_marginEnd="37dp"
-        android:layout_marginRight="37dp" />
+        tools:layout_constraintBottom_creator="1" />
 
     <Button
         android:id="@+id/button7"
@@ -79,10 +75,22 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         tools:layout_constraintTop_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toRightOf="@+id/button17" />
+
+    <Button
+        android:id="@+id/button17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sexual_assault"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
         tools:layout_constraintBottom_creator="1"
-        android:layout_marginEnd="85dp"
-        app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginRight="85dp" />
+        tools:layout_constraintLeft_creator="1" />
 
 </android.support.constraint.ConstraintLayout>
