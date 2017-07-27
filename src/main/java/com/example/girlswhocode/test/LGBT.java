@@ -23,7 +23,7 @@ public class LGBT extends AppCompatActivity {
             }
         });
         Button b3= (Button) findViewById(R.id.button22);
-        b2.setOnClickListener(new View.OnClickListener() {
+        b3.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {change();
             }
         });
