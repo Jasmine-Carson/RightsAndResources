@@ -1,9 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<ScrollViewma
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.girlswhocode.test.AbuseRights">
+    android:background="#FFFFFF">
 
-</android.support.constraint.ConstraintLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+
+        <TextView
+            android:textColor="#837edc"
+            android:text="Rights:"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFFFFF"/>
+
+
+        <TextView
+            android:textColor="#000000"
+            android:text="A landlord cannot penelize you based on a history of sexual abuse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFFFFF" />
+        <TextView
+            android:textColor="#000000"
+            android:text="--If you feel that you are being penelized by your landlord you can take you case to court or file an offical compliant witht the United States Department of Housing and Urban Development"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"  />
+
+
+    </LinearLayout>
+</ScrollView>
