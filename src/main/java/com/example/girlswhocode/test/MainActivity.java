@@ -39,6 +39,11 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {abused();
             }
         });
+        Button assault= (Button) findViewById(R.id.button17);
+        assault.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {assaulted();
+            }
+        });
     }
 
     private void mentalhealth() {
@@ -59,6 +64,10 @@ public class MainActivity extends AppCompatActivity {
     }
     public void abused(){
         Intent intent = new Intent(this, Abuse.class);
+        startActivity(intent);
+    }
+    public void assaulted(){
+        Intent intent = new Intent(this, SexualAssault.class);
         startActivity(intent);
     }
 }
