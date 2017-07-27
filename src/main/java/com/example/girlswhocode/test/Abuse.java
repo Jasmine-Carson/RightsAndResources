@@ -22,6 +22,16 @@ public class Abuse extends AppCompatActivity {
             public void onClick(View v) {resources();
             }
         });
+        Button b3 = (Button)findViewById(R.id.button23);
+        b3.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {helpme();
+            }
+        });
+        Button b4 = (Button)findViewById(R.id.button24);
+        b4.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {helpfriend();
+            }
+        });
     }
 
     private void rights() {
@@ -30,6 +40,14 @@ public class Abuse extends AppCompatActivity {
     }
     private void resources() {
         Intent intent = new Intent(this, AbuseResources.class);
+        startActivity(intent);
+    }
+    private void helpme() {
+        Intent intent = new Intent(this, IfAbused.class);
+        startActivity(intent);
+    }
+    private void helpfriend() {
+        Intent intent = new Intent(this, AbusedFriend.class);
         startActivity(intent);
     }
 }
