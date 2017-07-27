@@ -22,6 +22,11 @@ public class LGBT extends AppCompatActivity {
             public void onClick(View v) {resources();
             }
         });
+        Button b3= (Button) findViewById(R.id.button22);
+        b2.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {change();
+            }
+        });
     }
     private void rights() {
         Intent intent = new Intent(this, QueerRights.class);
@@ -29,6 +34,10 @@ public class LGBT extends AppCompatActivity {
     }
     private void resources() {
         Intent intent = new Intent(this, QueerResources.class);
+        startActivity(intent);
+    }
+    private void change() {
+        Intent intent = new Intent(this, ChangeName.class);
         startActivity(intent);
     }
 }
