@@ -13,32 +13,34 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#00000"
+            android:background="#D81B60"
             android:text="Sexual Assault - Laws"
-            android:textColor="#ff0000"
-            android:textSize="36sp"
-            android:textStyle="bold" />
+            android:textColor="#FAFAFA"
+            android:textSize="34sp" />
 
         <TextView
             android:text="-Sexual harassment violates Title VII of the Civil Rights Act of 1964"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#AD1457"
+            android:textSize="20sp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Sexual assault is defined as subjecting the victim to unwanted/offensive sexual touching."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#AD1457"                  
+            android:textSize="20sp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Conversations between an assault survivor and their counselor can be requested to be kept private."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#AD1457"                  
+            android:textSize="20sp" />
 
     </LinearLayout>
 </ScrollView>
