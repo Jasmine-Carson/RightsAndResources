@@ -14,27 +14,27 @@
 
 
         <TextView
-            android:textColor="#837edc"
+            android:textColor="#FAFAFA"
             android:text="Rights:"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:background="#FFFFFF"/>
-
-
-        <TextView
+            android:textSize="34sp"
+            android:background="#D81B60"/>
+        
+      <TextView
             android:textColor="#000000"
-            android:text="A landlord cannot penelize you based on a history of sexual abuse"
+            android:text="--A landlord cannot penelize you based on a history of sexual abuse"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#FFFFFF" />
+            android:background="#AD1457" />
         <TextView
             android:textColor="#000000"
             android:text="--If you feel that you are being penelized by your landlord you can take you case to court or file an offical compliant witht the United States Department of Housing and Urban Development"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20sp"  />
+            android:textSize="20sp"
+            android:background="#AD1457"/>
 
 
     </LinearLayout>
