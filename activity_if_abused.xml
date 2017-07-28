@@ -14,84 +14,85 @@
 
 
         <TextView
-            android:textColor="#837edc"
+            android:textColor="#FAFAFA"
             android:text="What to do if you are in an abusive relationship:"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:background="#FFFFFF"/>
+            android:textSize="34sp"
+            android:background="#D81B60"/>
 
 
         <TextView
-            android:textColor="#000000"
+            android:textColor="#FCE4EC"
             android:text="--Always remeber this isn't your fault"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#FFFFFF" />
+            android:background="#F48FB1" />
         <TextView
-            android:textColor="#000000"
+            android:textColor="#FCE4EC"
             android:text="If possible it is good to document in of abuse"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20sp"  />
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
 
         <TextView
-            android:textColor="#000000"
+            android:textColor="#FCE4EC"
             android:text="--While prepariong to leave try to disengage with the abuser as much as possible"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#FFFFFF"
+            android:background="#F48FB1"
             android:textSize="20sp"  />
         <TextView
 
             android:text="--try to secretly save money"
-            android:textColor="#000000"
+            android:textColor="#FCE4EC"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#FFFFFF"/>
+            android:background="#F48FB1"/>
 
 
         <TextView
-            android:textColor="#000000"
+            android:textColor="#FCE4EC"
             android:text="--Seek the help of a trusted friend or family member"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#FFFFFF"/>
+            android:background="#F48FB1"/>
 
 
         <TextView
-            android:textColor="#000000"
+            android:textColor="#FCE4EC"
             android:text="--Have a code word"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#FFFFFF" />
+            android:background="#F48FB1" />
 
         <TextView
-            android:textColor="#000000"
+            android:textColor="#FCE4EC"
             android:text="--Make bag containing: a cell phone, a charger, money, keys, driver's license, birth certificate, social security card and clothes for yourself and your children(if applicable)"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="20sp"  />
+            android:background="#F48FB1"  />
 
         <TextView
-            android:textColor="#000000"
+            android:textColor="#FCE4EC"
             android:text="--Make a plan, safehorizen.org has a saftey plans, Saftey plans are super important because abusers can be the most dangerous as the victim is leaving "
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#FFFFFF"
+            android:background="#F48FB1"
             android:textSize="20sp"  />
 
         <TextView
             android:text="--Have somewhere to go(contact a friend or women's center)"
-            android:textColor="#000000"
+            android:textColor="#FCE4EC"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#FFFFFF"/>
+            android:background="#F48FB1"/>
 
     </LinearLayout>
 </ScrollView>
