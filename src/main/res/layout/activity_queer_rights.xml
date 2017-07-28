@@ -35,7 +35,7 @@
              android:layout_width="wrap_content"
              android:layout_height="wrap_content"
              android:text="--As of June 26th, 2017 the Supreme Court ruled in favor of same-sex marriage, meaning same sex marriage is legal in all states"
-             android:textColor="#000000"
+             android:textColor="#FCE4EC"
              android:textSize="20sp"
              android:background="#F48FB1"/>
 
