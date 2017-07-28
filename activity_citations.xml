@@ -1,9 +1,114 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.example.girlswhocode.test.Citations">
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
-</android.support.constraint.ConstraintLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00000"
+            android:text="Citations"
+            android:textColor="#ff0000"
+            android:textSize="48sp"
+            android:textStyle="bold" />
+        
+        <TextView
+            android:text="These are the sources that were used when doing research for this app."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="24sp" />        
+
+        <TextView
+            android:text="https://www.aclu.org/know-your-rights/what-do-if-youre-stopped-police-immigration-agents-or-fbi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="http://justice.gov/eoir/list-pro-bono-legal-service-providers-map"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="http://familiesforfreedom.org/about"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="https://www.immigrantdefenseproject.org"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="https://www.healthyplace.com/gender/glbt-mental-health/gay-support-where-to-find-lgbt-help-and-support-groups/"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="www.aclu.org/know-your-rights"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+       
+       <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="http://www.nedva.org"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+       
+       <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="http://www.loveisrespect.org"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+       
+       <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="http://www.safehorizon.org"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+       
+       <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="https://www.iprevail.com/chat_landing"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+        
+       <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="https://caps.umich.edu/article/being-mental-health-ally"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="https://www.healthyplace.com/gender/glbt-mental-health/gay-support-where-to-find-lgbt-help-and-support-groups"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+                        
+                    
+    </LinearLayout>
+</ScrollView>
