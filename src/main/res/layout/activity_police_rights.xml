@@ -22,108 +22,122 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#00000"
+            android:background="#D81B60"
             android:text="Police Brutality"
-            android:textColor="#ff0000"
-            android:textSize="48sp"
+            android:textColor="#FAFAFA"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
-            android:text="YOUR RIGHTS - general, always apply"
+            android:text="Your rights- general, always apply"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="#000000"
-            android:textSize="24sp" />
+            android:textColor="#F48FB1"
+            android:textSize="24sp" 
+            android:background="#FCE4EC"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-You have the right to remain silent. If you wish to exercise that right, say so out loud."
-            android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textColor="#F48FB1"
+            android:textSize="20sp" 
+            android:background="#FCE4EC"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-You have the right to refuse to consent to a search of yourself, your car or your home."
-            android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textColor="#F48FB1"
+            android:textSize="20sp" 
+            android:background="#FCE4EC"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-If you are not under arrest, you have the right to calmly leave."
-            android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textColor="#F48FB1"
+            android:textSize="20sp" 
+            android:background="#FCE4EC"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-You have the right to a lawyer if you are arrested. Ask for one immediately."
-            android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textColor="#F48FB1"
+            android:textSize="20sp" 
+            android:background="#FCE4EC"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Regardless of your immigration or citizenship status, you have constitutional rights."
-            android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textColor="#F48FB1"
+            android:textSize="20sp" 
+            android:background="#FCE4EC"/>
 
         <TextView
-            android:text="YOUR RESPONSIBILITIES - general, always apply"
+            android:text="Your responsibilities- general, always apply"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="24sp" />
+            android:textSize="24sp"
+            android:background="#AD1457"/>
 
         <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="-Do stay calm and be polite."
-        android:textColor="#000000"
-        android:textSize="16sp" />
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-Do stay calm and be polite."
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:background="#AD1457"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Do not interfere with or obstruct the police."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textSize="20sp" 
+            android:background="#AD1457"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Keep your hands where police can see them."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textSize="20sp" 
+            android:background="#AD1457"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Do not lie or give false documents."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textSize="20sp" 
+            android:background="#AD1457"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Do prepare yourslef and your family in case you are arrested."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textSize="20sp" 
+            android:background="#AD1457"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Do remember the details of the encounter. Write them down if necessary."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textSize="20sp" 
+            android:background="#AD1457"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Do file a written complain ro call your local ACLU if you feel rights have been violated."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textSize="20sp" 
+            android:background="#AD1457"/>
     </LinearLayout>
 </ScrollView>
