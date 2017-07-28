@@ -13,32 +13,35 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#00000"
+            android:background="#D81B60"
             android:text="Sexual Assault - Resources"
-            android:textColor="#ff0000"
-            android:textSize="36sp"
-            android:textStyle="bold" />
+            android:textColor="#FAFAFA"
+            android:textSize="34sp" />
+
 
         <TextView
             android:text="-The National Sexual Assault Hotline at 800-656-4673 can walk you through the reporting process and assist you in getting help"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#AD1457"
+            android:textSize="20sp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Health centers cannot charge up front for rape kits."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#AD1457"      
+            android:textSize="20sp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Talk to your local support center! https://centers.rainn.org"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#AD1457"      
+            android:textSize="20sp" />
 
     </LinearLayout>
 </ScrollView>
