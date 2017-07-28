@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.example.girlswhocode.test.PoliceResources">
-
-</android.support.constraint.ConstraintLayout>
-
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
@@ -23,107 +13,25 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#00000"
-            android:text="Police Brutality"
+            android:text="Police Brutality Resources"
             android:textColor="#ff0000"
             android:textSize="48sp"
             android:textStyle="bold" />
 
         <TextView
-            android:text="YOUR RIGHTS - general, always apply"
+            android:text="https://www.aclu.org/know-your-rights/what-do-if-youre-stopped-police-immigration-agents-or-fbi"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="#000000"
-            android:textSize="24sp" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="-You have the right to remain silent. If you wish to exercise that right, say so out loud."
             android:textColor="#000000"
             android:textSize="16sp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="-You have the right to refuse to consent to a search of yourself, your car or your home."
+            android:text="http://justice.gov/eoir/list-pro-bono-legal-service-providers-map"
             android:textColor="#000000"
             android:textSize="16sp" />
+        
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="-If you are not under arrest, you have the right to calmly leave."
-            android:textColor="#000000"
-            android:textSize="16sp" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="-You have the right to a lawyer if you are arrested. Ask for one immediately."
-            android:textColor="#000000"
-            android:textSize="16sp" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="-Regardless of your immigration or citizenship status, you have constitutional rights."
-            android:textColor="#000000"
-            android:textSize="16sp" />
-
-        <TextView
-            android:text="YOUR RESPONSIBILITIES - general, always apply"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="#000000"
-            android:textSize="24sp" />
-
-        <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="-Do stay calm and be polite."
-        android:textColor="#000000"
-        android:textSize="16sp" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="-Do not interfere with or obstruct the police."
-            android:textColor="#000000"
-            android:textSize="16sp" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Keep your hands where police can see them."
-            android:textColor="#000000"
-            android:textSize="16sp" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="-Do not lie or give false documents."
-            android:textColor="#000000"
-            android:textSize="16sp" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="-Do prepare yourslef and your family in case you are arrested."
-            android:textColor="#000000"
-            android:textSize="16sp" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="-Do remember the details of the encounter. Write them down if necessary."
-            android:textColor="#000000"
-            android:textSize="16sp" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="-Do file a written complain ro call your local ACLU if you feel rights have been violated."
-            android:textColor="#000000"
-            android:textSize="16sp" />
     </LinearLayout>
 </ScrollView>
