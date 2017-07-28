@@ -1,9 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.girlswhocode.test.AbuseResources">
+    android:background="#FFFFFF">
 
-</android.support.constraint.ConstraintLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+
+        <TextView
+            android:textColor="#FAFAFA"
+            android:text="Resources"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="34sp"
+            android:background="#D81B60"/>
+        <TextView
+            android:textColor="#FCE4EC"
+            android:text="websites:"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:background="#F48FB1"/>
+
+
+        <TextView
+            android:textColor="#FCE4EC"
+            android:text="www.aclu.org/know-your-rights"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#F48FB1" />
+        <TextView
+            android:textColor="#FCE4EC"
+            android:text="www.nedva.org"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:textColor="#FCE4EC"
+            android:text="www.loveisrespect.org"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F48FB1"
+            android:textSize="20sp"  />
+        <TextView
+            android:textColor="#FCE4EC"
+            android:text="www.safehorizon.org"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F48FB1"
+            android:textSize="20sp"  />
+
+
+        <TextView
+            android:textColor="#000000"
+            android:text="Phone nummbers:"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:background="#AD1457"/>
+
+        <TextView
+            android:textColor="#000000"
+            android:text="Women’s resource center’s domestic abuse Hotline: 405-705-5540"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#AD1457" />
+
+
+        <TextView
+            android:textColor="#000000"
+            android:text="National Dating abuse Helpline: 1-800-331-9474"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#AD1457"
+            android:textSize="20sp"  />
+
+        <TextView
+
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="National Domestic Violence Hotline: 1-800-799-7233"
+            android:textColor="#000000"
+            android:background="#AD1457"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+</ScrollView>
