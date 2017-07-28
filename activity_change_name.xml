@@ -14,34 +14,35 @@
 
 
         <TextView
-            android:textColor="#101bec"
+            android:textColor="#FAFAFA"
             android:text="How to correct your gender in legal documentation"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="36sp"
-            android:background="#FFFFFF"/>
+            android:textSize="34sp"
+            android:background="#D81B60"/>
 
 
         <TextView
-            android:textColor="#8b56d6"
+            android:textColor="#FCE4EC"
             android:text="To change your gender on your driver's license:"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="24sp"
-            android:background="#FFFFFF" />
+            android:background="#F48FB1" />
         <TextView
-            android:textColor="#000000"
-            android:text="--you must take s form your offical psychiatrist that states your situation"
+            android:textColor="#FCE4EC"
+            android:text="--you must take a form your offical psychiatrist that states your situation"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20sp"  />
+            android:textSize="20sp" 
+            android:background="#F48FB1"/>
 
         <TextView
-            android:textColor="#8b56d6"
+            android:textColor="#000000"
             android:text="To change your gender with your social security information, it takes three steps:"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#FFFFFF"
+            android:background="#AD1457"
             android:textSize="24sp"  />
         <TextView
 
@@ -50,7 +51,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#FFFFFF"/>
+            android:background="#AD1457"/>
 
 
         <TextView
@@ -59,7 +60,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#FFFFFF"/>
+            android:background="#AD1457"/>
 
 
         <TextView
@@ -68,39 +69,32 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#FFFFFF" />
+            android:background="#AD1457" />
 
         <TextView
             android:textColor="#000000"
             android:text="*The previous steps must be taken for your gender to be changed in your social security information, however for a name change only acourt order must be requested"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="20sp"  />
-
+            android:textSize="20sp"
+            android:background="#AD1457"/>
+       
         <TextView
-            android:textColor="#000000"
-            android:text="--Don't tell people or spread rui gets back to the abuser it could make the situation worse for the victim"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="#FFFFFF"
-            android:textSize="20sp"  />
-        <TextView
-
             android:text="To change your name on your offical birth certificate :"
-            android:textColor="#8b56d6"
+            android:textColor="#FCE4EC"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="24sp"
-            android:background="#FFFFFF"/>
+            android:background="#F48FB1"/>
 
 
         <TextView
-            android:textColor="#0000000"
+            android:textColor="#FCE4EC"
             android:text="--A court order must bve requested and proof of using the name for five years must be presented"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#FFFFFF" />
+            android:background="#F48FB1" />
 
     </LinearLayout>
 </ScrollView>
