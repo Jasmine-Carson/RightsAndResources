@@ -16,7 +16,7 @@
             android:background="#00000"
             android:text="Sexual Assault - Reporting"
             android:textColor="#ff0000"
-            android:textSize="36sp"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -24,63 +24,63 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textSize="20sp" />
         
         <TextView
             android:text="-You can call or visit local police or go to a medical center (if being treated for related injuries) to report assault."
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textSize="20sp" />
         
         <TextView
             android:text="-Stick with other people."
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textSize="20sp" />
         
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-The statute of limitations, or time limit to go to court, is 6 years for most sexual assault crimes."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textSize="20sp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Stay aware."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:textSize="20sp" />
         
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-You should report sooner rather than later."
             android:textColor="#000000"
-            android:textSize="16sp" />      
+            android:textSize="20sp" />      
         
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Attempted rape is also a crime that can be prosecuted."
             android:textColor="#000000"
-            android:textSize="16sp" />   
+            android:textSize="20sp" />   
         
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-You can get a rape kit without reporting if you don’t want to."
             android:textColor="#000000"
-            android:textSize="16sp" /> 
+            android:textSize="20sp" /> 
         
          <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Sexual assault is ALWAYS a crime and should be reported."
             android:textColor="#000000"
-            android:textSize="16sp" />             
+            android:textSize="20sp" />             
 
     </LinearLayout>
 </ScrollView>
