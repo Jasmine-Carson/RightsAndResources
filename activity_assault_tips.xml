@@ -1,9 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.example.girlswhocode.test.AssaultTips">
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:weightSum="1">
 
-</android.support.constraint.ConstraintLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00000"
+            android:text="Sexual Assault - Tips"
+            android:textColor="#ff0000"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:text="-Stay out of isolated places."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+        
+        <TextView
+            android:text="-Walk confidently and with purpose, show no weakness."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+        
+        <TextView
+            android:text="-Stick with other people."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-Defend others in danger: even if you only go up and start talking to them, it can keep people from deciding to attack them."
+            android:textColor="#000000"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-Stay aware."
+            android:textColor="#000000"
+            android:textSize="16sp" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-Don't leave your drink alone."
+            android:textColor="#000000"
+            android:textSize="16sp" />      
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-Get an autbority if necessary."
+            android:textColor="#000000"
+            android:textSize="16sp" />   
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-Try to help others--don’t let things happen to anyone!"
+            android:textColor="#000000"
+            android:textSize="16sp" />        
+
+    </LinearLayout>
+</ScrollView>
