@@ -13,67 +13,74 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#00000"
+            android:background="#D81B60"
             android:text="Sexual Assault - Tips"
-            android:textColor="#ff0000"
-            android:textSize="36sp"
-            android:textStyle="bold" />
-
+            android:textColor="#FAFAFA"
+            android:textSize="34sp" />
+            
         <TextView
             android:text="-Stay out of isolated places."
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#AD1457"
+            android:textSize="20sp" />
         
         <TextView
             android:text="-Walk confidently and with purpose, show no weakness."
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#AD1457"                  
+            android:textSize="20sp" />
         
         <TextView
             android:text="-Stick with other people."
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#AD1457"                  
+            android:textSize="20sp" />
         
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Defend others in danger: even if you only go up and start talking to them, it can keep people from deciding to attack them."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#AD1457"
+            android:textSize="20sp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Stay aware."
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#AD1457"
+            android:textSize="20sp" />
         
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Don't leave your drink alone."
             android:textColor="#000000"
-            android:textSize="16sp" />      
+            android:background="#AD1457"
+            android:textSize="20sp" />      
         
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Get an autbority if necessary."
             android:textColor="#000000"
-            android:textSize="16sp" />   
+            android:background="#AD1457"
+            android:textSize="20sp" />   
         
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Try to help others--don’t let things happen to anyone!"
             android:textColor="#000000"
-            android:textSize="16sp" />        
+            android:background="#AD1457"
+            android:textSize="20sp" />        
 
     </LinearLayout>
 </ScrollView>
