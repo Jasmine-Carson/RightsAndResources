@@ -14,10 +14,18 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#00000"
-            android:text="Police Brutality-Specific Scenarios"
+            android:text="Immigration - Specific Scenarios"
             android:textColor="#ff0000"
             android:textSize="36sp"
             android:textStyle="bold" />
+        
+        <TextView
+            android:text="Note: Please refer to the Police Brutality page for general rules and rights. These rights will come and handy for any situtation involving government authority."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            android:textStyle="italic"/>        
 
         <TextView
             android:text="IF YOU ARE STOPPED FOR QUESTIONING"
