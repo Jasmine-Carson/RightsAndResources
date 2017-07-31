@@ -13,11 +13,10 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#00000"
+            android:background="#C5E1A5"
             android:text="Immigration - Specific Scenarios"
-            android:textColor="#ff0000"
-            android:textSize="34sp"
-            android:textStyle="bold" />
+            android:textColor="#000000"
+            android:textSize="34sp" />
         
         <TextView
             android:text="Note: Please refer to the Police Brutality page for general rules and rights. These rights will come and handy for any situtation involving government authority."
@@ -25,20 +24,22 @@
             android:layout_height="wrap_content"
             android:textColor="#000000"
             android:textSize="20sp"
-            android:textStyle="italic"/>        
+            android:background="#9CCC65"/>
+       
 
         <TextView
-            android:text="IF YOU ARE STOPPED FOR QUESTIONING"
+            android:text="If you are stopped for questioning" 
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="24sp" />
+            android:textSize="24sp" 
+            android:background="#9CCC65"/>
 
         <TextView
-            android:layout_width="738dp"
+            android:layout_width=""
             android:layout_height="wrap_content"
             android:text="-Stay calm at all times. Don't run. Even if innocent or police are violating your rights, don’t resist police in any way, physically or verbally. Keep your hands where police can see them.
-    "
+            android:background="#9CCC65"
             android:textColor="#000000"
             android:textSize="20sp" />
 
