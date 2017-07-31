@@ -24,7 +24,7 @@
 
          <TextView
              android:textColor="#000000"
-             android:text="-Many LGBTQ+ books are banned in schools and libraries but this can be fought"
+             android:text="-Many LGBTQ+ books are banned in schools and libraries but this can be fought."
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="24sp"
@@ -34,13 +34,13 @@
              android:id="@+id/textView"
              android:layout_width="wrap_content"
              android:layout_height="wrap_content"
-             android:text="-As of June 26th, 2017 the Supreme Court ruled in favor of same-sex marriage, meaning same sex marriage is legal in all states"
+             android:text="-As of June 26th, 2017 the Supreme Court ruled in favor of same-sex marriage, meaning same sex marriage is legal in all states."
              android:textColor="#000000"
              android:textSize="20sp"
              android:background="#CE93D8"/>
 
          <TextView
-             android:text="-The constitution statesthat the freedonm of speech applies to all, gender identity does not change that for American citizens."
+             android:text="-The constitution states that the freedonm of speech applies to all, and gender identity does not change that for American citizens."
              android:textColor="#000000"
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
@@ -53,13 +53,13 @@
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:background="#CE93D8"
-             android:text="-If you are in a foreign country and are prosecuted for your gender identity, you can apply to be placed in an asylum."
+             android:text="-If you are in a foreign country and are prosecuted for your gender identity, you can apply for political asylum."
              android:textColor="#000000"
              android:textSize="24sp" />
 
          <TextView
              android:textColor="#000000"
-             android:text="States that protect transgender citizens allow transgender people to use the bathroom tehat matched their idenity, however this is a highly discussed issues with laws changing"
+             android:text="States that protect transgender citizens allow transgender people to use the bathroom that matched their idenity, however this is a highly discussed issue with laws changing."
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="20sp"
@@ -68,7 +68,7 @@
 
          <TextView
              android:textColor="#000000"
-             android:text="-Hate crimes against sexual orientation, gender identity is treated no different that hate crimens based on religon or race, they're all illegal."
+             android:text="-Hate crimes against sexual orientation, gender identity is treated no different that hate crimes based on religon or race, they're all illegal."
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="20sp"
@@ -101,7 +101,7 @@
 
          <TextView
              android:textColor="#000000"
-             android:text="-This means that schools can't peneililze LGBTQ+ and opportunities can't be taken from them"
+             android:text="-This means that schools can't peneililze LGBTQ+ and opportunities can't be taken from them."
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="24sp"
@@ -109,7 +109,7 @@
       
          <TextView
              android:textColor="#000000"
-             android:text="-If students express concern about their safety, the school they attend legally must protect them from harassment"
+             android:text="-If students express concern about their safety, the school they attend legally must protect them from harassment."
              android:layout_width="wrap_content"
              android:layout_height="wrap_content"
              android:textSize="20sp" 
@@ -117,14 +117,14 @@
 
          <TextView
              android:textColor="#000000"
-             android:text="-The school legally cannot out you regarding you sexual preferences, this would be a violation of your constitutional right to privacy"
+             android:text="-The school legally cannot out you regarding you sexual preferences, this would be a violation of your constitutional right to privacy."
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:background="#CE93D8"
              android:textSize="24sp"  />
       
          <TextView
-             android:text="-The Equal Access Act states that if a public school allows nin-curricular clubs, it must also allow GSA or Gay Straigt Alliance and other clubs with a similar purpose."
+             android:text="-The Equal Access Act states that if a public school allows non-curricular clubs, it must also allow GSA or Gay Straigt Alliance and other clubs with a similar purpose."
              android:textColor="#000000"
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
