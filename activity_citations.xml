@@ -131,7 +131,7 @@
        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="http://web.a.ebscohost.com/ehost/detail/detail?vid=0&sid=8619853c-a28b-4c55-92d7-6d74aaa72a29%40sessionmgr4010&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=2W62374694299&db=krh"
+            android:text="http://web.a.ebscohost.com/ehost/detail/detail?vid=0&amp;sid=8619853c-a28b-4c55-92d7-6d74aaa72a29%40sessionmgr4010&amp;bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=2W62374694299&amp;db=krh"
             android:textColor="#FCE4EC"
             android:textSize="20sp" 
             android:background="#F48FB1"/>
