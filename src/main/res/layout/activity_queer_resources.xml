@@ -14,42 +14,42 @@
 
 
         <TextView
-            android:textColor="#FAFAFA"
+            android:textColor="#000000"
             android:text="Advice and resources"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="34sp"
-            android:background="#D81B60"/>
+            android:background="#E1BEE7"/>
         <TextView
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:text="Advice:"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="24sp"
-            android:background="#F48FB1"/>
+            android:background="#CE93D8"/>
 
 
         <TextView
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:text="Document everything. Sadly, the system protecting lgbtq+ is not always effective, keeping documentation reduces the margin for error if it’s something that affects legal matters."
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F48FB1" />
+            android:background="#CE93D8" />
         <TextView
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:text="Become aware of your rights and when they’re being violated. "
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F48FB1"/>
+            android:background="#CE93D8"/>
 
         <TextView
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:text="Find groups that are determined to support you!"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#F48FB1"
+            android:background="#CE93D8"
             android:textSize="20sp"  />
 
 
@@ -59,7 +59,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="24sp"
-            android:background="#AD1457"/>
+            android:background="#CE93D8"/>
 
 
         <TextView
@@ -68,14 +68,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#AD1457" />
+            android:background="#CE93D8" />
 
         <TextView
             android:textColor="#000000"
             android:text="https://www.lambdalegal.org/"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#AD1457"
+            android:background="#CE93D8"
             android:textSize="20sp"  />
 
         <TextView
@@ -85,7 +85,7 @@
             android:layout_height="wrap_content"
             android:text="https://www.glsen.org/"
             android:textColor="#000000"
-            android:background="#AD1457"
+            android:background="#CE93D8"
             android:textSize="20sp" />
 
         <TextView
@@ -95,7 +95,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#AD1457"/>
+            android:background="#CE93D8"/>
 
     </LinearLayout>
 </ScrollView>
