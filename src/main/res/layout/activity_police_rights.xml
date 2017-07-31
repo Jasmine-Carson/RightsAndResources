@@ -25,8 +25,8 @@
             android:background="#D81B60"
             android:text="Police Brutality"
             android:textColor="#FAFAFA"
-            android:textSize="34sp"
-            android:textStyle="bold" />
+            android:textSize="34sp" />
+           
 
         <TextView
             android:text="Your rights- general, always apply"
