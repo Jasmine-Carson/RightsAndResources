@@ -13,7 +13,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#45B39D"
+            android:background="#EBF5FB"
             android:text="Sexual Assault - Laws"
             android:textColor="#566573"
             android:textSize="34sp" />
