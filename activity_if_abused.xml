@@ -24,7 +24,7 @@
 
         <TextView
             android:textColor="#FCE4EC"
-            android:text="--Always remeber this isn't your fault"
+            android:text="--Always remember this isn't your fault"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
@@ -44,8 +44,8 @@
             android:layout_height="wrap_content"
             android:background="#F48FB1"
             android:textSize="20sp"  />
+        
         <TextView
-
             android:text="--try to secretly save money"
             android:textColor="#FCE4EC"
             android:layout_width="match_parent"
@@ -76,7 +76,8 @@
             android:text="--Make bag containing: a cell phone, a charger, money, keys, driver's license, birth certificate, social security card and clothes for yourself and your children(if applicable)"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#F48FB1"  />
+            android:textSize="20sp"
+            android:background="#F48FB1" />
 
         <TextView
             android:textColor="#FCE4EC"
@@ -92,7 +93,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F48FB1"/>
+            android:background="#F48FB1" />
 
     </LinearLayout>
 </ScrollView>
