@@ -60,7 +60,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="https://www.healthyplace.com/gender/glbt-mental-health/gay-support-where-to-find-lgbt-help-and-support-groups/"
+            android:text="https://www.healthyplace.com/gender/glbt-mental-health/gay-support-where-to-find-lgbt-help-and-support-groups"
             android:textColor="#FCE4EC"
             android:textSize="20sp" 
             android:background="#F48FB1"/>
