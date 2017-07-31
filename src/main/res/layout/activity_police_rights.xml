@@ -47,7 +47,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="-You have the right to refuse to consent to a search of yourself, your car or your home."
+            android:text="-You have the right to refuse to consent to a search of yourself, your car, or your home."
             android:textColor="#F48FB1"
             android:textSize="20sp" 
             android:background="#FCE4EC"/>
@@ -77,7 +77,7 @@
             android:background="#FCE4EC"/>
 
         <TextView
-            android:text="Your responsibilities- general, always apply"
+            android:text="Your responsibilities - general, always apply"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
@@ -135,7 +135,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="-Do file a written complain ro call your local ACLU if you feel rights have been violated."
+            android:text="-Do file a written complain to call your local ACLU if you feel rights have been violated."
             android:textColor="#000000"
             android:textSize="20sp" 
             android:background="#AD1457"/>
