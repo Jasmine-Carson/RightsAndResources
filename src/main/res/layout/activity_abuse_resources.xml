@@ -22,7 +22,7 @@
             android:background="#FFF176"/>
         <TextView
             android:textColor="#000000"
-            android:text="websites:"
+            android:text="Websites:"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="24sp"
