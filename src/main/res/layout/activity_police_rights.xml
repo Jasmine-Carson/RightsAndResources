@@ -103,7 +103,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Keep your hands where police can see them."
+            android:text="-Keep your hands where police can see them."
             android:textColor="#000000"
             android:textSize="20sp" 
             android:background="#EF5350"/>
