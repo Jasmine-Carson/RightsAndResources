@@ -1,25 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.example.girlswhocode.test.PoliceSituations">
-
-</android.support.constraint.ConstraintLayout>    
-    
-
+=
 <ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent" >
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:gravity="center" />
-        android:weightSum="1">
+        android:gravity="center" >
 
         <TextView
             android:layout_width="match_parent"
@@ -34,7 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="24sp" 
+            android:textSize="24sp"
             android:background="#EF5350"/>
 
 
@@ -59,7 +48,7 @@
             android:layout_height="wrap_content"
             android:text="-You have the right to remain silent and cannot be punished for refusing to answer questions. If you wish to remain silent, tell the officer out loud. You do have to give ID in California."
             android:textColor="#000000"
-            android:textSize="20sp" 
+            android:textSize="20sp"
             android:background="#EF5350"/>
 
         <TextView
@@ -84,7 +73,7 @@
             android:layout_height="wrap_content"
             android:text="-Stop the car in a safe. public place as quickly as possible. Turn off the car, turn on the internal light, open the window part way and place your hands on the wheel."
             android:textColor="#000000"
-            android:textSize="20sp" 
+            android:textSize="20sp"
             android:background="#EF5350"/>
 
         <TextView
@@ -92,7 +81,7 @@
             android:layout_height="wrap_content"
             android:text="-Upon request, show your driver's license, registration, and proof of insurance."
             android:textColor="#000000"
-            android:textSize="20sp" 
+            android:textSize="20sp"
             android:background="#EF5350"/>
 
         <TextView
@@ -108,7 +97,7 @@
             android:layout_height="wrap_content"
             android:text="-Both drivers and passengers have the right to remain silent. If you are a passenger, you can ask if you are free to leave. If the officer says yes, sit silently or calmly leave. Even if the officer says no, you have the right to remain silent."
             android:textColor="#000000"
-            android:textSize="20sp" 
+            android:textSize="20sp"
             android:background="#EF5350"/>
 
         <TextView
@@ -132,7 +121,7 @@
             android:layout_height="wrap_content"
             android:text="-Say you wish to remain silent and ask for a lawyer immediately. Don't give any explanations or excuses. If you can't pay for a lawyer, you have the right to a free one. Don't say anything, sign anything or make any decisions without a lawyer."
             android:textColor="#000000"
-            android:textSize="20sp" 
+            android:textSize="20sp"
             android:background="#EF5350"/>
 
         <TextView
@@ -140,7 +129,7 @@
             android:layout_height="wrap_content"
             android:text="-You have the right to make a private local phone call which the police cannot listen to."
             android:textColor="#000000"
-            android:textSize="20sp" 
+            android:textSize="20sp"
             android:background="#EF5350"/>
 
         <TextView
@@ -156,9 +145,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="24sp" 
+            android:textSize="24sp"
             android:background="#EF5350"/>
-      
+
 
         <TextView
             android:layout_width="match_parent"
@@ -175,14 +164,14 @@
             android:textColor="#000000"
             android:textSize="20sp"
             android:background="#EF5350"/>
-           
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Do not lie about your citizenship status or provide fake documents."
             android:textColor="#000000"
-            android:textSize="20sp" 
+            android:textSize="20sp"
             android:background="#EF5350"/>
-            
+
     </LinearLayout>
 </ScrollView>
