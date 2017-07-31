@@ -12,9 +12,9 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#D81B60"
+            android:background="#EF9A9A"
             android:text="Police Brutality Resources"
-            android:textColor="#FAFAFA"
+            android:textColor="#000000"
             android:textSize="34sp"
             android:textStyle="bold" />
 
@@ -22,17 +22,37 @@
             android:text="https://www.aclu.org/know-your-rights/what-do-if-youre-stopped-police-immigration-agents-or-fbi"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:textSize="20sp"
-            android:background="#F48FB1"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="http://justice.gov/eoir/list-pro-bono-legal-service-providers-map"
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:textSize="20sp"
-            android:background="#F48FB1"/>
+            android:background="#EF5350"/>
+         <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          "
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:background="#EF5350"/>
         
 
     </LinearLayout>
