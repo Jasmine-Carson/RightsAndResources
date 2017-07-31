@@ -24,51 +24,51 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#D81B60"
+            android:background="#EF9A9A"
             android:text="Police Brutality-Specific Scenarios"
-            android:textColor="#FAFAFA"
+            android:textColor="#000000"
             android:textSize="34sp" />
 
         <TextView
             android:text="If you are stopped for questioning"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:textSize="24sp" 
-            android:background="#F48FB1"/>
+            android:background="#EF5350"/>
 
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Stay calm at all times. Don't run. Even if innocent or police are violating your rights, don’t resist police in any way, physically or verbally. Keep your hands where police can see them."
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:textSize="20sp"
-            android:background="#F48FB1"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="-Ask the officers if you are free to leave. If yes, walk away calmly. If you are under arrest, you have a right to know why."
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:textSize="20sp"
-            android:background="#F48FB1"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-You have the right to remain silent and cannot be punished for refusing to answer questions. If you wish to remain silent, tell the officer out loud. You do have to give ID in California."
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:textSize="20sp" 
-            android:background="#F48FB1"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-You do not have to consent to a search of yourself or your belongings, but police may pat down your clothing if they suspect a weapon. You should not physically resist, but you have the right to refuse consent for any further search. If you do consent, it can affect you later in court."
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:textSize="20sp"
-            android:background="#F48FB1"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:id="@+id/textView"
@@ -76,7 +76,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:background="#AD1457"
+            android:background="#EF5350"
             android:textSize="24sp" />
 
         <TextView
@@ -85,7 +85,7 @@
             android:text="-Stop the car in a safe. public place as quickly as possible. Turn off the car, turn on the internal light, open the window part way and place your hands on the wheel."
             android:textColor="#000000"
             android:textSize="20sp" 
-            android:background="#AD1457"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -93,7 +93,7 @@
             android:text="-Upon request, show your driver's license, registration, and proof of insurance."
             android:textColor="#000000"
             android:textSize="20sp" 
-            android:background="#AD1457"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -101,7 +101,7 @@
             android:text="-If an officer or immigration agent asks to look inside your car, you can refuse to consent to the search unless police believe your car contains crime evidence."
             android:textColor="#000000"
             android:textSize="20sp"
-            android:background="#AD1457"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -109,47 +109,47 @@
             android:text="-Both drivers and passengers have the right to remain silent. If you are a passenger, you can ask if you are free to leave. If the officer says yes, sit silently or calmly leave. Even if the officer says no, you have the right to remain silent."
             android:textColor="#000000"
             android:textSize="20sp" 
-            android:background="#AD1457"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:text="If you are arrested"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:textSize="24sp"
-            android:background="#F48FB1"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Do not resist arrest, even if you believe the arrest is unfair."
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:textSize="20sp"
-            android:background="#F48FB1"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Say you wish to remain silent and ask for a lawyer immediately. Don't give any explanations or excuses. If you can't pay for a lawyer, you have the right to a free one. Don't say anything, sign anything or make any decisions without a lawyer."
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:textSize="20sp" 
-            android:background="#F48FB1"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-You have the right to make a private local phone call which the police cannot listen to."
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:textSize="20sp" 
-            android:background="#F48FB1"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="-Prepare yourself and your family in case you are arrested. Memorize the phone numbers of your family and your lawyer. Make emergency plans if you have children or take medication."
-            android:textColor="#FCE4EC"
+            android:textColor="#000000"
             android:textSize="20sp"
-            android:background="#F48FB1"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:text="IMMIGRATION (IF YOU ARE QUESTIONED ABOUT YOUR IMMIGRATION STATUS)"
@@ -157,7 +157,7 @@
             android:layout_height="wrap_content"
             android:textColor="#000000"
             android:textSize="24sp" 
-            android:background="#AD1457"/>
+            android:background="#EF5350"/>
       
 
         <TextView
@@ -166,7 +166,7 @@
             android:text="-You have the right to remain silent and do not have to discuss your immigration or citizenship status with police, immigration agents or any other officials. You do not have to answer questions about where you were born, whether you are a U.S. citizen, or how you entered the country. (Separate rules apply at international borders and airports, and for individuals on certain nonimmigrant visas, including tourists and business travelers.)."
             android:textColor="#000000"
             android:textSize="20sp"
-            android:background="#AD1457"/>
+            android:background="#EF5350"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -174,7 +174,7 @@
             android:text="-If you are not a U.S. citizen and an immigration agent requests your immigration papers, you must show them if you have them with you. If you are over 18, carry your immigration documents with you at all times. If you do not have immigration papers, say you want to remain silent."
             android:textColor="#000000"
             android:textSize="20sp"
-            android:background="#AD1457"/>
+            android:background="#EF5350"/>
            
         <TextView
             android:layout_width="match_parent"
@@ -182,7 +182,7 @@
             android:text="Do not lie about your citizenship status or provide fake documents."
             android:textColor="#000000"
             android:textSize="20sp" 
-            android:background="#AD1457"/>
+            android:background="#EF5350"/>
             
     </LinearLayout>
 </ScrollView>
