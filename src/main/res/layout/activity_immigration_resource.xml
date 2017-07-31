@@ -12,39 +12,42 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#00000"
-            android:text="Immigration Resources"
-            android:textColor="#ff0000"
-            android:textSize="48sp"
-            android:textStyle="bold" />
+            android:background="#C5E1A5"
+            android:text="Immigration Resources:"
+            android:textColor="#000000"
+            android:textSize="24sp" />
 
         <TextView
             android:text="https://www.aclu.org/know-your-rights/what-do-if-youre-stopped-police-immigration-agents-or-fbi"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#9CCC65"
+            android:textSize="20sp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="http://justice.gov/eoir/list-pro-bono-legal-service-providers-map"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#9CCC65"
+            android:textSize="20sp" />
         
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="http://familiesforfreedom.org/about"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#9CCC65"
+            android:textSize="20sp" />
         
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="https://www.immigrantdefenseproject.org"
             android:textColor="#000000"
-            android:textSize="16sp" />
+            android:background="#9CCC65"
+            android:textSize="20sp" />
                 
 
     </LinearLayout>
