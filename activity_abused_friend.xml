@@ -14,95 +14,115 @@
 
 
         <TextView
-            android:textColor="#FAFAFA"
+            android:textColor="#566573"
             android:text="What to do if a friend is in an abusive relationship:"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="34sp"
-            android:background="#D81B60"/>
+            android:background="#FFF176"/>
 
 
          <TextView
-             android:textColor="#FCE4EC"
+             android:textColor="#566573"
              android:text="always be supportive"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F48FB1" />
+            android:background="#49A825" />
         <TextView
-            android:textColor="#FCE4EC"
+            android:textColor="#566573"
             android:text="--Don't say you should have told be sooner' or 'why did you let it get this far'"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F48FB1" />
+            android:background="#49A825" />
 
         <TextView
-            android:textColor="#FCE4EC"
+            android:textColor="#566573"
             android:text="--Tell them you want to help"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#F48FB1"
+            android:background="#49A825"
             android:textSize="20sp"  />
         <TextView
 
         android:text="--Percistently remind them that this isn't their fault"
-        android:textColor="#FCE4EC"
+        android:textColor="#566573"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20sp"
-        android:background="#F48FB1"/>
+        android:background="#49A825"/>
 
 
         <TextView
-            android:textColor="#FCE4EC"
+            android:textColor="#566573"
             android:text="--Help them create a safe word"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F48FB1"/>
+            android:background="#49A825"/>
 
 
         <TextView
-            android:textColor="#FCE4EC"
+            android:textColor="#566573"
             android:text="believe them"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F48FB1" />
+            android:background="#49A825" />
 
         <TextView
-            android:textColor="#FCE4EC"
+            android:textColor="#566573"
             android:text="--Don't tell people or spread rumors if i gets back to the abuser it could make the situation worse for the victim"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#F48FB1"
+            android:background="#49A825"
             android:textSize="20sp"  />
    
         <TextView
-            android:textColor="#FCE4EC"
+            android:textColor="#566573"
             android:text="Don't blame or acuse them"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F48FB1" />
+            android:background="#49A825" />
 
         <TextView
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="--Don't contact the abuser or post about the situation onlibneit could make it worse for the victim"
-            android:background="#F48FB1"
-            android:textSize="20sp" />
+            android:background="#49A825"
+            android:textSize="20sp"
+            android:textColor="#566573/>
 
         <TextView
             android:id="@+id/textView2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#F48FB1"
+            android:background="#49A825"
             android:text="--Help them create a saftey plan by possibly using safehorizen.org"
-            android:textColor="#FCE4EC"
+            android:textColor="#566573"
             android:textSize="20sp" />
+       <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#49A825"
+            android:text="
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  "
+            android:textColor="#566573"
+            android:textSize="20sp" />
+           
 
     </LinearLayout>
 </ScrollView>
