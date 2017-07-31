@@ -24,7 +24,7 @@
 
          <TextView
              android:textColor="#000000"
-             android:text="always be supportive"
+             android:text="--Always be supportive"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
@@ -65,7 +65,7 @@
 
         <TextView
             android:textColor="#000000"
-            android:text="believe them"
+            android:text="--Believe them"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
@@ -81,7 +81,7 @@
    
         <TextView
             android:textColor="#000000"
-            android:text="Don't blame or acuse them"
+            android:text="--Don't blame or acuse them"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
