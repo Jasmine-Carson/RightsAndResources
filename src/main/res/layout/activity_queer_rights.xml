@@ -14,66 +14,66 @@
 
 
          <TextView
-             android:textColor="#FAFAFA"
+             android:textColor="#000000"
              android:text="Law matters"
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="34sp"
-             android:background="#D81B60"/>
+             android:background="#E1BEE7"/>
 
 
          <TextView
-             android:textColor="#FCE4EC"
+             android:textColor="#000000"
              android:text="--Many LGBTQ+ books are banned in schools and libraries but this can be fought"
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="24sp"
-             android:background="#F48FB1" />
+             android:background="#CE93D8" />
 
          <TextView
              android:id="@+id/textView"
              android:layout_width="wrap_content"
              android:layout_height="wrap_content"
              android:text="--As of June 26th, 2017 the Supreme Court ruled in favor of same-sex marriage, meaning same sex marriage is legal in all states"
-             android:textColor="#FCE4EC"
+             android:textColor="#000000"
              android:textSize="20sp"
-             android:background="#F48FB1"/>
+             android:background="#CE93D8"/>
 
          <TextView
 
              android:text="The consistution statesthat the freedonm of speech applies to all, gender identity does not change that for American citizens."
-             android:textColor="#FCE4EC"
+             android:textColor="#000000"
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="20sp"
-             android:background="#F48FB1"/>
+             android:background="#CE93D8"/>
 
 
          <TextView
              android:id="@+id/textView2"
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
-             android:background="#F48FB1"
+             android:background="#CE93D8"
              android:text="If you are in a foreign country and are prosecuted for your gender identity, you can apply to be placed in an asylum."
-             android:textColor="#FCE4EC"
+             android:textColor="#000000"
              android:textSize="24sp" />
 
          <TextView
-             android:textColor="#FCE4EC"
+             android:textColor="#000000"
              android:text="States that protect transgender citizens allow transgender people to use the bathroom tehat matched their idenity, however this is a highly discussed issues with laws changing"
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="20sp"
-             android:background="#F48FB1"/>
+             android:background="#CE93D8"/>
 
 
          <TextView
-             android:textColor="#FCE4EC"
+             android:textColor="#000000"
              android:text="Hate crims against sexual orientation, gender identity is treated no different that hate crimens based on religon or race, they're all illegal."
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="20sp"
-             android:background="#F48FB1" />
+             android:background="#CE93D8" />
 
          <TextView
              android:textColor="#000000"
@@ -81,14 +81,14 @@
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="24sp" 
-             android:background="AD1457"/>
+             android:background="#CE93D8"/>
 
          <TextView
              android:textColor="#000000"
              android:text="Title IX of the Education Amendments Act of 1972 is a federal law that states:"
              android:layout_width= "match_parent"
              android:layout_height="wrap_content"
-             android:background="AD1457"
+             android:background="#CE93D8"
              android:textSize="20sp"  />
          <TextView
 
@@ -97,7 +97,7 @@
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="20sp"
-             android:background="AD1457"/>
+             android:background="#CE93D8"/>
 
 
 
@@ -107,21 +107,21 @@
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="24sp"
-             android:background="AD1457" />
+             android:background="#CE93D8" />
          <TextView
              android:textColor="#000000"
              android:text="If students express concern about their safety, the school they attend legally must protect them from harassment"
              android:layout_width="wrap_content"
              android:layout_height="wrap_content"
              android:textSize="20sp" 
-             android:background="AD1457"/>
+             android:background="#CE93D8"/>
 
          <TextView
              android:textColor="#000000"
              android:text="The school legally cannot out you regarding you sexual preferences, this would be a violation of your constitutional right to privacy"
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
-             android:background="AD1457"
+             android:background="#CE93D8"
              android:textSize="24sp"  />
          <TextView
 
@@ -130,6 +130,6 @@
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:textSize="20sp"
-             android:background="AD1457"/>
+             android:background="#CE93D8"/>
      </LinearLayout>
  </ScrollView>
