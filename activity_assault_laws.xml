@@ -19,7 +19,7 @@
             android:textSize="34sp" />
 
         <TextView
-            android:text="-Sexual harassment violates Title VII of the Civil Rights Act of 1964"
+            android:text="-Sexual harassment violates Title VII of the Civil Rights Act of 1964."
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#000000"
