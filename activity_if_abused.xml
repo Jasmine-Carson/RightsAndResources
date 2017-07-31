@@ -51,7 +51,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F48FB1"/>
+            android:background="#F48FB1" />
 
 
         <TextView
@@ -60,7 +60,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F48FB1"/>
+            android:background="#F48FB1" />
 
 
         <TextView
