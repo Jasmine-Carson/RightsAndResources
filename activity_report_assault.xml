@@ -89,6 +89,19 @@
             android:textColor="#566573"
             android:background="#AED6F1"       
             android:textSize="20sp" />   
+       <TextView
+            android:text="
+                          
+                          
+                          
+                          
+                          
+                         "
+            android:layout_width="match_parent""#A2D9CE"
+            android:layout_height="wrap_content"
+            android:textColor="#566573"
+            android:background="#AED6F1"      
+            android:textSize="20sp" />
                  
 
     </LinearLayout>
