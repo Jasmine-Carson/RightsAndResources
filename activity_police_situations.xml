@@ -18,7 +18,7 @@
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:gravity="center"
+        android:gravity="center" />
         android:weightSum="1">
 
         <TextView
@@ -52,7 +52,6 @@
             android:text="-Ask the officers if you are free to leave. If yes, walk away calmly. If you are under arrest, you have a right to know why."
             android:textColor="#FCE4EC"
             android:textSize="20sp"
-            android:layout_weight="0.04"
             android:background="#F48FB1"/>
 
         <TextView
