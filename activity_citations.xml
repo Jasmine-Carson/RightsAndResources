@@ -15,7 +15,7 @@
             android:background="#D81B60"
             android:text="Citations"
             android:textColor="#FAFAFA"
-            android:textSize="34"/>
+            android:textSize="34sp"/>
         
         <TextView
             android:text="These are the sources that were used when doing research for this app."
@@ -118,7 +118,7 @@
             android:layout_height="wrap_content"
             android:text="https://www.healthyplace.com/gender/glbt-mental-health/gay-support-where-to-find-lgbt-help-and-support-groups"
             android:textColor="#FCE4EC"
-            android:textSize="20" 
+            android:textSize="20sp" 
             android:background="#F48FB1"/>
        <TextView
             android:layout_width="match_parent"
