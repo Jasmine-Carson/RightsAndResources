@@ -23,7 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#566573"
-            android:background="#AED641"
+            android:background="#AED6F1"
             android:textSize="20sp" />
 
         <TextView
@@ -31,7 +31,7 @@
             android:layout_height="wrap_content"
             android:text="-Sexual assault is defined as subjecting the victim to unwanted/offensive sexual touching."
             android:textColor="#566573"
-            android:background="#AED641"                  
+            android:background="#AED6F1"                  
             android:textSize="20sp" />
 
         <TextView
@@ -39,12 +39,32 @@
             android:layout_height="wrap_content"
             android:text="-Conversations between an assault survivor and their counselor can be requested to be kept private."
             android:textColor="#566573"
-            android:background="#AED641"                  
+            android:background="#AED6F1"                  
             android:textSize="20sp" />
-        <TextView
+ <TextView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:background="#AED641"/>
-
+            android:layout_height="wrap_content"
+            android:text="
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          "
+            android:textColor="#566573"
+            android:background="#AED6F1"                  
+            android:textSize="20sp" />
     </LinearLayout>
 </ScrollView>
