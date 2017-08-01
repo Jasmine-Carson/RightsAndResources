@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="34sp"
-            android:background="#FFF176/>
+            android:background="#FFECBC/>
 
 
         <TextView
@@ -28,21 +28,21 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F9A825" />
+            android:background="#FFCA28" />
         <TextView
             android:textColor="#000000"
             android:text="--If possible it is good to document in of abuse"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F9A825"/>
+            android:background="#FFCA28"/>
 
         <TextView
             android:textColor="#000000"
             android:text="--While prepariong to leave try to disengage with the abuser as much as possible"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#F9A825"
+            android:background="#FFCA28"
             android:textSize="20sp"  />
         
         <TextView
@@ -51,7 +51,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F9A825" />
+            android:background="#FFCA28" />
 
 
         <TextView
@@ -60,7 +60,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F9A825" />
+            android:background="#FFCA28" />
 
 
         <TextView
@@ -69,7 +69,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F9A825" />
+            android:background="#FFCA28" />
 
         <TextView
             android:textColor="#000000"
@@ -77,14 +77,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F9A825" />
+            android:background="#FFCA28" />
 
         <TextView
             android:textColor="#000000"
             android:text="--Make a plan, safehorizen.org has a saftey plans, Saftey plans are super important because abusers can be the most dangerous as the victim is leaving "
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#F9A825"
+            android:background="#FFCA28"
             android:textSize="20sp"  />
 
         <TextView
@@ -93,25 +93,91 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F9A825" />
-              <TextView
-            android:text="
-                                                                           
-                                                                           
-                                                                           
-                                                                           
-                                                                           
-                                                                           
-                                                                           
-                                                                           
-                                                                           
-                                                                           
-                                                                           "
+            android:background="#FFCA28" />
+        <TextView
+            android:text=""
             android:textColor="#000000"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F9A825" />                                                                
+            android:background="#FFCA28" />    
+        <TextView
+            android:text=""
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFCA28" /> 
+         <TextView
+            android:text=""
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFCA28" />    
+        <TextView
+            android:text=""
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFCA28" />    
+          <TextView
+            android:text=""
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFCA28" />    
+        <TextView
+            android:text=""
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFCA28" /> 
+         <TextView
+            android:text=""
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFCA28" />    
+        <TextView
+            android:text=""
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFCA28" />
+         <TextView
+            android:text=""
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFCA28" />    
+        <TextView
+            android:text=""
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFCA28" /> 
+         <TextView
+            android:text=""
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFCA28" />    
+        <TextView
+            android:text=""
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#FFCA28" />                                                                          
 
     </LinearLayout>
 </ScrollView>
