@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="34sp"
-            android:background="#FFF176"/>
+            android:background="#FFD54F"/>
         
       <TextView
             android:textColor="#000000"
@@ -27,14 +27,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F9A825" />
+            android:background="#FFCA28" />
         <TextView
             android:textColor="#000000"
             android:text="--If you feel that you are being penelized by your landlord you can take you case to court or file an offical compliant witht the United States Department of Housing and Urban Development"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F9A825"/>
+            android:background="#FFCA28"/>
         <TextView
             android:textColor="#000000"
             android:text="
@@ -46,11 +46,11 @@
                           
                           
                           
-                          "
+                          ."
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#F9A825"/>
+            android:background="#FFCA28"/>
 
     </LinearLayout>
 </ScrollView>
