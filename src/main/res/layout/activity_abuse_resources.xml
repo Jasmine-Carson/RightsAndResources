@@ -19,42 +19,42 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="34sp"
-            android:background="#FFF176"/>
+            android:background="#FFD54F"/>
         <TextView
             android:textColor="#000000"
             android:text="Websites:"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="24sp"
-            android:background="#49A825"/>
+            android:background=#FFCA28"/>
         <TextView
             android:textColor="#000000"
             android:text="www.aclu.org/know-your-rights"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#49A825" />
+            android:background=#FFCA28" />
         <TextView
             android:textColor="#000000"
             android:text="www.nedva.org"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#49A825"/>
+            android:background=#FFCA28"/>
 
         <TextView
             android:textColor="#000000"
             android:text="www.loveisrespect.org"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#49A825"
+            android:background=#FFCA28"
             android:textSize="20sp"  />
         <TextView
             android:textColor="#000000"
             android:text="www.safehorizon.org"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#49A825"
+            android:background=#FFCA28"
             android:textSize="20sp"  />
 
 
@@ -64,7 +64,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="24sp"
-            android:background="#49A825"/>
+            android:background=#FFCA28"/>
 
         <TextView
             android:textColor="#000000"
@@ -72,7 +72,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#49A825" />
+            android:background=#FFCA28" />
 
 
         <TextView
@@ -80,7 +80,7 @@
             android:text="National Dating abuse Helpline: 1-800-331-9474"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#49A825"
+            android:background=#FFCA28"
             android:textSize="20sp"  />
 
         <TextView
@@ -89,7 +89,7 @@
             android:layout_height="wrap_content"
             android:text="National Domestic Violence Hotline: 1-800-799-7233"
             android:textColor="#000000"
-            android:background="#49A825"
+            android:background=#FFCA28"
             android:textSize="20sp" />
                                                        
                                 
