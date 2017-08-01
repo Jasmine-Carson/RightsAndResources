@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="34sp"
-            android:background="#FFF176"/>
+            android:background="#FFD54F"/>
 
 
          <TextView
@@ -28,21 +28,21 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#49A825" />
+            android:background="#FFCA28" />
         <TextView
             android:textColor="#000000"
             android:text="--Don't say you should have told be sooner' or 'why did you let it get this far'"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#49A825" />
+            android:background="#FFCA28" />
 
         <TextView
             android:textColor="#000000"
             android:text="--Tell them you want to help"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#49A825"
+            android:background="#FFCA28"
             android:textSize="20sp"  />
         <TextView
 
@@ -51,7 +51,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20sp"
-        android:background="#49A825"/>
+        android:background="#FFCA28"/>
 
 
         <TextView
@@ -60,7 +60,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#49A825"/>
+            android:background="#FFCA28"/>
 
 
         <TextView
@@ -69,14 +69,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#49A825" />
+            android:background="#FFCA28" />
 
         <TextView
             android:textColor="#000000"
             android:text="--Don't tell people or spread rumors if i gets back to the abuser it could make the situation worse for the victim"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#49A825"
+            android:background="#FFCA28"
             android:textSize="20sp"  />
    
         <TextView
@@ -85,14 +85,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:background="#49A825" />
+            android:background="#FFCA28" />
 
         <TextView
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="--Don't contact the abuser or post about the situation onlibneit could make it worse for the victim"
-            android:background="#49A825"
+            android:background="#FFCA28"
             android:textSize="20sp"
             android:textColor="#000000/>
 
@@ -100,7 +100,7 @@
             android:id="@+id/textView2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#49A825"
+            android:background="#FFCA28"
             android:text="--Help them create a saftey plan by possibly using safehorizen.org"
             android:textColor="#000000"
             android:textSize="20sp" />
@@ -108,7 +108,7 @@
             android:id="@+id/textView2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#49A825"
+            android:background="#FFCA28"
             android:text="
                   
                   
