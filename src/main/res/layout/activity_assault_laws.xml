@@ -6,120 +6,124 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="#C5E1A5"
-            android:text="Immigration Resources:"
-            android:textColor="#000000"
-            android:textSize="35sp" />
-
-        <TextView
-            android:text="https://www.aclu.org/know-your-rights/what-do-if-youre-stopped-police-immigration-agents-or-fbi"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="#000000"
-            android:background="#9CCC65"
-            android:textSize="20sp" />
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:weightSum="1">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="
-http://justice.gov/eoir/list-pro-bono-legal-service-providers-map"
-            android:textColor="#000000"
-            android:background="#9CCC65"
+            android:background="#EBF5FB"
+            android:text="Sexual Assault - Laws"
+            android:textColor="#566573"
+            android:textSize="34sp" />
+
+        <TextView
+            android:text="-Sexual harassment violates Title VII of the Civil Rights Act of 1964."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#566573"
+            android:background="#AED6F1"
             android:textSize="20sp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="
-http://familiesforfreedom.org/about"
-            android:textColor="#000000"
-            android:background="#9CCC65"
+            android:text="-Sexual assault is defined as subjecting the victim to unwanted/offensive sexual touching."
+            android:textColor="#566573"
+            android:background="#AED6F1"
             android:textSize="20sp" />
 
         <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="
-https://www.immigrantdefenseproject.org"
-        android:textColor="#000000"
-        android:background="#9CCC65"
-        android:textSize="20sp" />
-        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text=""
-            android:textColor="#000000"
-            android:background="#9CCC65"
+            android:text="-Conversations between an assault survivor and their counselor can be requested to be kept private."
+            android:textColor="#566573"
+            android:background="#AED6F1"
             android:textSize="20sp" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text=""
-            android:textColor="#000000"
-            android:background="#9CCC65"
+            android:textColor="#566573"
+            android:background="#AED6F1"
             android:textSize="20sp" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text=""
-            android:textColor="#000000"
-            android:background="#9CCC65"
+            android:textColor="#566573"
+            android:background="#AED6F1"
             android:textSize="20sp" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text=""
-            android:textColor="#000000"
-            android:background="#9CCC65"
+            android:textColor="#566573"
+            android:background="#AED6F1"
             android:textSize="20sp" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text=""
-            android:textColor="#000000"
-            android:background="#9CCC65"
+            android:textColor="#566573"
+            android:background="#AED6F1"
             android:textSize="20sp" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text=""
-            android:textColor="#000000"
-            android:background="#9CCC65"
+            android:textColor="#566573"
+            android:background="#AED6F1"
             android:textSize="20sp" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text=""
-            android:textColor="#000000"
-            android:background="#9CCC65"
+            android:textColor="#566573"
+            android:background="#AED6F1"
             android:textSize="20sp" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text=""
-            android:textColor="#000000"
-            android:background="#9CCC65"
+            android:textColor="#566573"
+            android:background="#AED6F1"
             android:textSize="20sp" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text=""
-            android:textColor="#000000"
-            android:background="#9CCC65"
+            android:textColor="#566573"
+            android:background="#AED6F1"
             android:textSize="20sp" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text=""
-            android:textColor="#000000"
-            android:background="#9CCC65"
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#566573"
+            android:background="#AED6F1"
             android:textSize="20sp" />
 
     </LinearLayout>

@@ -15,30 +15,23 @@
 
         <TextView
             android:textColor="#000000"
-            android:text="Advice and resources"
+            android:text="How to correct your gender in legal documentation"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="34sp"
             android:background="#E1BEE7"/>
+
+
         <TextView
             android:textColor="#000000"
-            android:text="Advice:"
+            android:text="To change your gender on your driver's license:"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="24sp"
-            android:background="#CE93D8"/>
-
-
-        <TextView
-            android:textColor="#000000"
-            android:text="Document everything. Sadly, the system protecting lgbtq+ is not always effective, keeping documentation reduces the margin for error if it’s something that affects legal matters."
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="20sp"
             android:background="#CE93D8" />
         <TextView
             android:textColor="#000000"
-            android:text="Become aware of your rights and when they’re being violated. "
+            android:text="--You must take a form your offical psychiatrist that states your situation"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20sp"
@@ -46,16 +39,49 @@
 
         <TextView
             android:textColor="#000000"
-            android:text="Find groups that are determined to support you!"
+            android:text="To change your gender on your social security information:"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#CE93D8"
-            android:textSize="20sp"  />
+            android:textSize="24sp"  />
+        <TextView
+
+            android:text="1. Have a sex change operation"
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#CE93D8"/>
 
 
         <TextView
             android:textColor="#000000"
-            android:text="Resources:"
+            android:text="2. Request a court order regarding the update of your social security information"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#CE93D8"/>
+
+
+        <TextView
+            android:textColor="#000000"
+            android:text="3. Present a letter from your surgeon that confirms the procedure"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#CE93D8" />
+
+        <TextView
+            android:textColor="#000000"
+            android:text="*The previous steps must be taken for your gender to be changed in your social security information, however for a name change only acourt order must be requested"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="#CE93D8"/>
+
+        <TextView
+            android:text="To change your name on your official birth certificate :"
+            android:textColor="#000000"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="24sp"
@@ -64,57 +90,11 @@
 
         <TextView
             android:textColor="#000000"
-            android:text="https://www.healthyplace.com/gender/glbt-mental-health/gay-support-where-to-find-lgbt-help-and-support-groups/"
+            android:text="--A court order must bve requested and proof of using the name for five years must be presented"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
             android:background="#CE93D8" />
-
-        <TextView
-            android:textColor="#000000"
-            android:text="https://www.lambdalegal.org/"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="#CE93D8"
-            android:textSize="20sp"  />
-
-        <TextView
-            android:id="@+id/textView3"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="https://www.glsen.org/"
-            android:textColor="#000000"
-            android:background="#CE93D8"
-            android:textSize="20sp" />
-
-        <TextView
-            android:text="http://www.thetrevorproject.org/"
-            android:textColor="#000000"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:background="#CE93D8"/>
-        <TextView
-            android:text=""
-            android:textColor="#000000"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:background="#CE93D8"/>
-        <TextView
-            android:text=""
-            android:textColor="#000000"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:background="#CE93D8"/>
-        <TextView
-            android:text=""
-            android:textColor="#000000"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:background="#CE93D8"/>
 
     </LinearLayout>
 </ScrollView>

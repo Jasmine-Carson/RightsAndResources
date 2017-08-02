@@ -32,7 +32,17 @@
         <activity android:name=".QueerResources" />
         <activity android:name=".AbuseRights" />
         <activity android:name=".AbuseResources" />
-        <activity android:name=".PoliceRights"></activity>
+        <activity android:name=".PoliceRights" />
+        <activity android:name=".PoliceResources" />
+        <activity android:name=".SexualAssault" />
+        <activity android:name=".AssaultTips" />
+        <activity android:name=".AssaultLaws" />
+        <activity android:name=".ReportAssault" />
+        <activity android:name=".AssaultResources" />
+        <activity android:name=".ChangeName" />
+        <activity android:name=".IfAbused" />
+        <activity android:name=".AbusedFriend" />
+        <activity android:name=".Citations"></activity>
     </application>
 
 </manifest>

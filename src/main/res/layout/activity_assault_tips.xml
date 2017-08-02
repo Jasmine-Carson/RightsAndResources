@@ -1,0 +1,149 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#EBF5FB"
+            android:text="Sexual Assault - Tips"
+            android:textColor="#566573"
+            android:textSize="34sp" />
+
+        <TextView
+            android:text="-Stay out of isolated places."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+
+        <TextView
+            android:text="-Walk confidently and with purpose, show no weakness."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+
+        <TextView
+            android:text="-Stick with other people."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-Defend others in danger: even if you only go up and start talking to them, it can keep people from deciding to attack them."
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-Stay aware."
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-Don't leave your drink alone."
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-Get an authority if necessary."
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-Try to help others--don’t let things happen to anyone!"
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#566573"
+            android:background="#AED6F1"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+</ScrollView>

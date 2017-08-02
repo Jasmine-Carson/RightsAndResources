@@ -1,0 +1,140 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#D81B60"
+            android:text="Citations"
+            android:textColor="#FAFAFA"
+            android:textSize="34sp"/>
+
+        <TextView
+            android:text="These are the sources used for information in this app."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FCE4EC"
+            android:textSize="24sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:text="      https://www.aclu.org/know-your-rights/what-do-if-youre-stopped-police-immigration-agents-or-fbi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      http://justice.gov/eoir/list-pro-bono-legal-service-providers-map"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      http://familiesforfreedom.org/about"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="https://www.immigrantdefenseproject.org"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      https://www.healthyplace.com/gender/glbt-mental-health/gay-support-where-to-find-lgbt-help-and-support-groups"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      www.aclu.org/know-your-rights"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="http://www.nedva.org"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      http://www.loveisrespect.org"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="http://www.safehorizon.org"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      https://www.iprevail.com/chat_landing"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      https://caps.umich.edu/article/being-mental-health-ally"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      https://www.healthyplace.com/gender/glbt-mental-health/gay-support-where-to-find-lgbt-help-and-support-groups"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      http://www.yourtango.com/experts/wendy-kay/avoid-abusive-relationship-15-signs-abuser-expert"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      http://web.a.ebscohost.com/ehost/detail/detail?vid=0&amp;sid=8619853c-a28b-4c55-92d7-6d74aaa72a29%40sessionmgr4010&amp;bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=2W62374694299&amp;db=krh"
+            android:textColor="#FCE4EC"
+            android:textSize="20sp"
+            android:background="#F48FB1"/>
+
+    </LinearLayout>
+</ScrollView>

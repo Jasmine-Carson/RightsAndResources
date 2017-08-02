@@ -22,11 +22,6 @@ public class Police extends AppCompatActivity {
             public void onClick(View v) {resources();
             }
         });
-        Button b3= (Button) findViewById(R.id.button16);
-        b3.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {situations();
-            }
-        });
     }
     private void rights() {
         Intent intent = new Intent(this, PoliceRights.class);
@@ -36,8 +31,5 @@ public class Police extends AppCompatActivity {
         Intent intent = new Intent(this, PoliceResources.class);
         startActivity(intent);
     }
-    private void situations() {
-        Intent intent = new Intent(this, PoliceSituations.class);
-        startActivity(intent);
-    }
+
 }
